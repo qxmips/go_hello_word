@@ -1,0 +1,6 @@
+{
+  "phabricator.uri" : "http://10.217.40.136:8080",
+  "project.name" : "hello_go",
+  "repository.callsign" : "GO"
+
+}
